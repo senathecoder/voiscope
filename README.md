@@ -1,6 +1,6 @@
 # Voiscope – Kullanıcı Arayüzü (Frontend)
 
-Bu repo, Voiscope uygulamasının **kullanıcı arayüzü (frontend)** geliştirmelerini içerir. 
+Bu repo, Voiscope web sitesinin **kullanıcı arayüzü (frontend)** geliştirmelerini içerir. 
 
 ## Yaptıklarım
 - Projenin arayüzünü HTML ve CSS ile tasarladım.  
