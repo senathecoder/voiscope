@@ -18,5 +18,5 @@ Bu proje, Voiscope web sitesinin kullanıcı arayüzü tasarımı ve geliştirme
 **Geliştirici:** Sena Nur Özdemir  
 [GitHub Profilim](https://github.com/senathecoder)
 
-Yusuf Baha Şahin 
+**Geliştirici:** Yusuf Baha Şahin 
 [GitHub Profili](https://github.com/yusufbsahin).
