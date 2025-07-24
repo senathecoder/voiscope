@@ -19,4 +19,4 @@ Bu proje, Voiscope web sitesinin kullanıcı arayüzü tasarımı ve geliştirme
 [GitHub Profilim](https://github.com/senathecoder)
 
 Yusuf Baha Şahin 
-[GitHub Profili].(https://github.com/yusufbsahin).
+[GitHub Profili](https://github.com/yusufbsahin).
