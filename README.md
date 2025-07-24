@@ -1,6 +1,6 @@
 # Voiscope – Kullanıcı Arayüzü (Frontend)
 
-Bu proje, Voiscope uygulamasının kullanıcı arayüzü tasarımı ve geliştirmesidir.
+Bu proje, Voiscope web sitesinin kullanıcı arayüzü tasarımı ve geliştirmesidir.
 
 ## Yaptıklarım
 - HTML, CSS ve JavaScript kullanarak sayfa yapısını ve etkileşimleri oluşturdum.
@@ -14,8 +14,6 @@ Bu proje, Voiscope uygulamasının kullanıcı arayüzü tasarımı ve geliştir
 
 ## Notlar
 - Bu proje sadece frontend katmanını içermektedir.
-
----
 
 **Geliştirici:** Sena Nur Özdemir  
 [GitHub Profilim](https://github.com/senathecoder)
