@@ -31,7 +31,7 @@ Voiscope; otomatik konuşma tanıma (ASR), metin okuma (TTS) ve çağrı merkezi
 ## Kullandığım Teknolojiler
 | Katman | Teknoloji |
 |--------|-----------|
-| Arayüz | | HTML5, CSS3 | Responsive & semantik yapı |
+| Arayüz | HTML5, CSS3 | Responsive & semantik yapı |
 | Programlama |	JavaScript (Vanilla, ES6) | Etkileşimler, animasyonlar, timer |
 | Tasarım |	Custom CSS/JS | 3D carousel, galeri, modern form alanları |
 | Ikon Seti | Font Awesome | Kurumsal ikon kullanımı |
