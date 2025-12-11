@@ -1,4 +1,4 @@
-📌 Voiscope – Kurumsal Web Sitesi Yenileme (Front-End)
+## 📌 Voiscope – Kurumsal Web Sitesi Yenileme (Front-End)
 
 Bu proje, Yazılım Mühendisliği lisans eğitimim kapsamında Yıldız Teknik Üniversitesi Teknopark’ta yer alan Voiscope Ar-Ge şirketinde gerçekleştirdiğim zorunlu staj sürecinde geliştirilmiştir.
 
@@ -6,40 +6,37 @@ Görevim, firmanın ses teknolojileri alanındaki çözümlerini daha modern ve 
 
 Projeyi stajyer ekip arkadaşımla birlikte geliştirdik. Front-End etkileşimleri, JavaScript mantıkları, responsive tasarım ve görsel bileşenlerin büyük kısmı tarafımdan hazırlanmıştır.
 
-🔗 Proje İçeriği Hakkında
+---
+
+## 🔗 Proje İçeriği Hakkında
 
 Voiscope; otomatik konuşma tanıma (ASR), metin okuma (TTS) ve çağrı merkezi yazılımları gibi ses teknolojisi çözümleri sunan bir Ar-Ge firmasıdır.
 
 ➡️ Bu projede ürünlerin teknik altyapısına değil, sadece kurumsal site içinde tanıtım amaçlı gösterimlerini destekleyen Front-End yapısına odaklandım.
 
-✨ Geliştirdiğim Teknik Özellikler
+---
+
+## ✨ Geliştirdiğim Teknik Özellikler
+
 1. JavaScript ile Etkileşimli Arayüzler
-
-Mouse ve touch hareketlerine duyarlı özel 3D Carousel tasarımı
-
-ASR demo sayfası için saf JavaScript ile yazılmış geri sayım (timer) sistemi
-
-Mobile-friendly scroll davranışları ve animasyonlar
+ - Mouse ve touch hareketlerine duyarlı özel 3D Carousel tasarımı
+ - ASR demo sayfası için saf JavaScript ile yazılmış geri sayım (timer) sistemi
+ - Mobile-friendly scroll davranışları ve animasyonlar
 
 2. Modern UI/UX Çözümleri
+ - Scroll konumuna göre arka planı değişen dinamik navbar
+ - Animasyonlu, modern tasarımlı form giriş alanları (wave-group)
+ - Oklarla gezilebilir ve çift tıklama ile tam ekran galeri modülü
 
-Scroll konumuna göre arka planı değişen dinamik navbar
-
-Animasyonlu, modern tasarımlı form giriş alanları (wave-group)
-
-Oklarla gezilebilir ve çift tıklama ile tam ekran galeri modülü
-
-🛠️ Kullandığım Teknolojiler
-Kategori	Teknolojiler	Açıklama
-Arayüz	HTML5, CSS3	Responsive & semantik yapı
-Programlama	JavaScript (Vanilla, ES6)	Etkileşimler, animasyonlar, timer
-Tasarım	Custom CSS/JS	3D carousel, galeri, modern form alanları
-Ikon Seti	Font Awesome	Kurumsal ikon kullanımı
-💻 Projeyi Yerel Çalıştırma
-git clone https://github.com/sena-nur-ozdemir/voiscope
+## Kullandığım Teknolojiler
+| Katman | Teknoloji |
+|--------|-----------|
+| Arayüz | | HTML5, CSS3 | Responsive & semantik yapı |
+| Programlama |	JavaScript (Vanilla, ES6) | Etkileşimler, animasyonlar, timer |
+| Tasarım |	Custom CSS/JS | 3D carousel, galeri, modern form alanları |
+| Ikon Seti | Font Awesome | Kurumsal ikon kullanımı |
 
 
-Ardından proje klasöründeki index.html dosyasını tarayıcıda açmanız yeterlidir.
 ## Proje Fotoğrafları
 
 <img width="1917" height="912" alt="voiscope1" src="https://github.com/user-attachments/assets/07690106-9bed-4e2d-b180-bbff17a0048d" />
@@ -55,7 +52,7 @@ Ardından proje klasöründeki index.html dosyasını tarayıcıda açmanız yet
 
 1.  **Depoyu İndirin/Klonlayın.**
     ```bash
-    git clone [https://github.com/senathecoder/Voiscope](https://github.com/senathecoder/Voiscope)
+    git clone https://github.com/sena-nur-ozdemir/voiscope
     ```
 2.  İndirdiğiniz klasörde bulunan **`index.html`** dosyasına çift tıklayarak herhangi bir internet tarayıcısında (Chrome, Firefox, Edge vb.) doğrudan açın.
 
