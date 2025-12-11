@@ -1,41 +1,45 @@
-# Voiscope – Kurumsal Web Sitesi Yenileme (Front-End)
+📌 Voiscope – Kurumsal Web Sitesi Yenileme (Front-End)
 
-Bu proje, **Yazılım Mühendisliği Lisans Eğitimimin zorunlu stajı** kapsamında, **Yıldız Teknik Üniversitesi Teknopark** çatısı altında bulunan Voiscope Ar-Ge firmasının kurumsal web sitesi için geliştirilmiş, kapsamlı bir **Front-End Yenileme ve Tasarım** projesidir.
+Bu proje, Yazılım Mühendisliği lisans eğitimim kapsamında Yıldız Teknik Üniversitesi Teknopark’ta yer alan Voiscope Ar-Ge şirketinde gerçekleştirdiğim zorunlu staj sürecinde geliştirilmiştir.
 
-Projenin temel amacı, firmanın **Derin Öğrenme tabanlı Ses Teknolojileri** çözümlerini (ASR, TTS, Speech Analytics, IVR, Dialer) modern, etkileşimli ve kurumsal bir arayüzle sergilemektir. Proje, ekip arkadaşımla birlikte tamamlanmıştır.
+Görevim, firmanın ses teknolojileri alanındaki çözümlerini daha modern ve kullanıcı odaklı bir arayüzle tanıtabilmesi için kurumsal web sitesinin Front-End bölümünü tasarlamak ve uygulamaktı.
 
-## 🔗 Proje Bilgileri
-> **Proje Tipi:** Gelişmiş Front-End Tasarım ve Uygulama / **Zorunlu Staj Projesi**
-> **Kapsam:** Çağrı Merkezi ve Ses Teknolojileri (ASR/TTS)
-> **Canlı Demo:** Bu proje arka uç (API) bağlantıları gerektirdiği için tam işlevsel demosu bulunmamaktadır. Yerel olarak çalıştırılabilir.
+Projeyi stajyer ekip arkadaşımla birlikte geliştirdik. Front-End etkileşimleri, JavaScript mantıkları, responsive tasarım ve görsel bileşenlerin büyük kısmı tarafımdan hazırlanmıştır.
 
----
+🔗 Proje İçeriği Hakkında
 
-## ✨ Teknik Geliştirmeler ve Mühendislik Uygulamaları
+Voiscope; otomatik konuşma tanıma (ASR), metin okuma (TTS) ve çağrı merkezi yazılımları gibi ses teknolojisi çözümleri sunan bir Ar-Ge firmasıdır.
 
-Projenin gücü, sadece görsel tasarımdan ziyade **karmaşık kullanıcı etkileşimlerini saf JavaScript ile yönetme** yeteneğimi göstermektedir:
+➡️ Bu projede ürünlerin teknik altyapısına değil, sadece kurumsal site içinde tanıtım amaçlı gösterimlerini destekleyen Front-End yapısına odaklandım.
 
-### 1. İleri Düzey JavaScript ve Etkileşim Yönetimi
+✨ Geliştirdiğim Teknik Özellikler
+1. JavaScript ile Etkileşimli Arayüzler
 
-* **3D Karusel (R&D Projeleri):** Devam eden Ar-Ge projelerini sergilemek amacıyla, fare ve dokunmatik hareketlere duyarlı, **özel geliştirilmiş 3D Karusel** yapısı uygulanmıştır. Bu, yüksek düzeyde CSS Transform ve JavaScript hesaplama becerisi gerektirir.
-* **Vanilla JS Sayaç Mantığı:** ASR demo bölümünde 60 saniyelik kayıt süresini takip eden temiz **JavaScript geri sayım mantığı** mevcuttur.
+Mouse ve touch hareketlerine duyarlı özel 3D Carousel tasarımı
 
-### 2. Kullanıcı Deneyimi (UI/UX) ve Temiz Kodlama
+ASR demo sayfası için saf JavaScript ile yazılmış geri sayım (timer) sistemi
 
-* **Akıllı Navigasyon (Scrolled Navbar):** Sayfa kaydırma (scroll) hareketine tepki veren, arkaplan rengini dinamik olarak değiştiren bir gezinme çubuğu ile kullanıcı erişimi optimize edilmiştir.
-* **Gelişmiş Form Tasarımı:** Demo Talep formlarında, kullanıcı girişini şık bir şekilde görselleştiren, **dalgalı etiket efektli (wave-group)** modern CSS teknikleri kullanılmıştır.
-* **Dinamik Galeri Yönetimi:** Ürün bilgileri içerisindeki ekran görüntülerinin oklar ile gezinebilir ve çift tıklama ile tam ekran moduna geçebilir şekilde yönetimi sağlanmıştır.
+Mobile-friendly scroll davranışları ve animasyonlar
 
-## 🛠️ Kullanılan Teknolojiler
+2. Modern UI/UX Çözümleri
 
-| Kategori | Teknolojiler | Kullanım Amacı |
-| :--- | :--- | :--- |
-| **Çekirdek Diller** | **HTML5, CSS3** | Semantik yapı ve duyarlı tasarım. |
-| **Programlama** | **JavaScript (Vanilla JS, ES6)** | Tüm Front-End etkileşimleri, form mantığı, galeri kontrolü. |
-| **Özel Tasarım** | **Custom 3D CSS/JS** | Ar-Ge projeleri için Karusel yapısı. |
-| **Kullanım/Stil** | **Font Awesome** | Profesyonel ikonografi. |
+Scroll konumuna göre arka planı değişen dinamik navbar
 
----
+Animasyonlu, modern tasarımlı form giriş alanları (wave-group)
+
+Oklarla gezilebilir ve çift tıklama ile tam ekran galeri modülü
+
+🛠️ Kullandığım Teknolojiler
+Kategori	Teknolojiler	Açıklama
+Arayüz	HTML5, CSS3	Responsive & semantik yapı
+Programlama	JavaScript (Vanilla, ES6)	Etkileşimler, animasyonlar, timer
+Tasarım	Custom CSS/JS	3D carousel, galeri, modern form alanları
+Ikon Seti	Font Awesome	Kurumsal ikon kullanımı
+💻 Projeyi Yerel Çalıştırma
+git clone https://github.com/sena-nur-ozdemir/voiscope
+
+
+Ardından proje klasöründeki index.html dosyasını tarayıcıda açmanız yeterlidir.
 ## Proje Fotoğrafları
 
 <img width="1917" height="912" alt="voiscope1" src="https://github.com/user-attachments/assets/07690106-9bed-4e2d-b180-bbff17a0048d" />
