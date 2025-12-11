@@ -36,7 +36,17 @@ Projenin gücü, sadece görsel tasarımdan ziyade **karmaşık kullanıcı etki
 | **Kullanım/Stil** | **Font Awesome** | Profesyonel ikonografi. |
 
 ---
+## Proje Fotoğrafları
 
+<img width="1917" height="912" alt="voiscope1" src="https://github.com/user-attachments/assets/07690106-9bed-4e2d-b180-bbff17a0048d" />
+
+<img width="1918" height="918" alt="voiscope4" src="https://github.com/user-attachments/assets/5fddfbec-9722-4f21-a541-7f537ed24c1a" />
+
+<img width="1918" height="912" alt="voiscope2" src="https://github.com/user-attachments/assets/68d6e446-4b95-4569-a175-c43c1fb797ea" />
+
+<img width="1918" height="915" alt="voiscope3" src="https://github.com/user-attachments/assets/80656212-e751-469e-903a-056ed7d0c59b" />
+
+---
 ## 💻 Projeyi Yerel Ortamda Çalıştırma Kılavuzu
 
 1.  **Depoyu İndirin/Klonlayın.**
@@ -46,7 +56,7 @@ Projenin gücü, sadece görsel tasarımdan ziyade **karmaşık kullanıcı etki
 2.  İndirdiğiniz klasörde bulunan **`index.html`** dosyasına çift tıklayarak herhangi bir internet tarayıcısında (Chrome, Firefox, Edge vb.) doğrudan açın.
 
 **Geliştirici:** Sena Nur Özdemir  
-[GitHub Profilim](https://github.com/senathecoder)
+[GitHub Profilim](https://github.com/sena-nur-ozdemir)
 
 **Geliştirici:** Yusuf Baha Şahin 
 [GitHub Profili](https://github.com/yusufbsahin).
